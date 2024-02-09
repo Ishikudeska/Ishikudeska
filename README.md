@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishikudeska
 - 👀 I’m interested in game making, mainly the animation/modeling/lighting stuff
-- 🌱 I’m currently learning C++ and Blender
+- 🌱 I’m currently learning C++, Blender, Python, C#, JavaScript, HTML, and a lot of other 
 - 💞️ I’m looking to collaborate on games, mainly, I will need lots of help!!
 - 📫 How to reach me 
 - For business inquiries:masonmesser23@gmail.com
